@@ -13,7 +13,7 @@ Welcome to my engineering asset repository. This space serves as an interactive 
 ### 2. ESP Micro-Drone System
 *   **Role:** Sole Developer
 *   **Core Tech:** ESP32, Requirements Traceability Matrix (RTM), Obsidian.
-*   **Description:** Active technical layout and cross-disciplinary documentation boundary control for an autonomous micro-drone platform[cite: 5]. Leverages continuous RTM tracking to isolate code dependencies and secure explicit change logs.
+*   **Description:** Active technical layout and cross-disciplinary documentation boundary control for an autonomous micro-drone platform. Leverages continuous RTM tracking to isolate code dependencies and secure explicit change logs.
 
 ### 3. Mechanical Audio Spectrum Analyzer
 *   **Role:** Developer.
