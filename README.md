@@ -7,7 +7,7 @@ Welcome to my engineering asset repository. This space serves as an interactive 
 ### 1. Remote Controlled Acquisition & Launch Robot (TF24)
 *   **Role:** Electrical & Documentation Lead
 *   **Core Tech:** ESP32, KiCad, Draw.io, Kodular
-*   **Primary Asset:** 📄 **[Click Here to Read the Full Post-Mortem Analysis](./PM_Analysis_Zalix_Razera.pdf)**
+*   **Primary Asset:** 📄 **[Click Here to Read the Full Post-Mortem Analysis](./PM_Analysis_Zalix Razera.pdf)**
 *   **Description:** Complete engineering audit and configuration drift analysis mapping the systemic deltas between the initial multi-rail power design blueprint and final physical deployment constraints. Includes baseline schematics, block diagrams, and PCB layouts.
 
 ### 2. ESP Micro-Drone System
