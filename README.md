@@ -22,7 +22,7 @@ Welcome to my engineering asset repository. This space serves as an interactive 
 
 ---
 
-## 🛠️ Core Technical Core
+## 🛠️ Core Technical 
 *   **Languages:** Python, C++ (Embedded/Arduino), MATLAB / Simulink.
 *   **Hardware:** EDA PCB Design, Analog Circuit Troubleshooting, Multi-Rail Power Distribution, System Wiring Architecture.
 *   **Tools:** KiCad, SolidWorks, EAGLE, Draw.io, Git, Obsidian.
