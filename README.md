@@ -24,6 +24,7 @@ Welcome to my engineering asset repository. This space serves as an interactive 
 
 | Project | Domain | Architecture / Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
+| **Remote Controlled Acquisition & Launch Robot (TF24)** | Electrical & Systems | ESP32, KiCad, Kodular, Multi-Rail Power Architecture | [📄 Post-Mortem Analysis](./PM_Analysis_Zalix_Razera.pdf) | [View Repo](#) |
 | **Robotic Arm TF24** | Hardware / Kinematics | 5-Axis Dynamics, Custom Power Modules, Servo Control | [View Repo](#) |
 | **Document Storage RS-485 System** | Embedded / Networking | STM32, Modular Eurocard PCBs, Optocoupler Isolation | [View Repo](#) |
 | **Mobile Pick & Shoot Robot** | Robotics / Firmware | ESP32, Flywheel Launcher, Carrier Motherboard, Telemetry | [View Repo](#) |
@@ -40,24 +41,17 @@ Welcome to my engineering asset repository. This space serves as an interactive 
 
 
 ### 🛠 Tools & Workflow
-- **EDA & Hardware:** KiCad, Fusion Electronics, EAGLE, LTspice, Logisim
-- **Programming & Math:** C, C++, Python, MATLAB, LaTeX
-- **Documentation:** Obsidian (Markdown/Mermaid), Git/GitHub Workflows
+- **EDA & Hardware:** EDA PCB Design (Kicad, Fusion, Altium Designer), Analog Circuit Troubleshooting, Multi-Rail Power Distribution, System Wiring Architecture.
+- **Programming & Math:** C, C++ (Embedded/Arduino), Python, MATLAB, LaTeX
+- **Documentation:** Obsidian (Markdown/Mermaid), Git/GitHub Workflows, SolidWorks, Draw.io
 
 ---
 
 ### 📫 Connect with Me
 - **Portfolio / Vault:** [Link to published Obsidian vault / docs site]
-- **Email:** `zalix@example.com`
-- **LinkedIn:** [linkedin.com/in/username](#)
+-  **Email:** zalixrazerar@gmail.com
+- **LinkedIn:** [linkedin.com/in/zalix-razera](https://linkedin.com/in/zalix-razera)
 ---
 
-## 🛠️ Core Technical 
-*   **Languages:** Python, C++ (Embedded/Arduino), MATLAB / Simulink.
-*   **Hardware:** EDA PCB Design, Analog Circuit Troubleshooting, Multi-Rail Power Distribution, System Wiring Architecture.
-*   **Tools:** KiCad, SolidWorks, EAGLE, Draw.io, Git, Obsidian.
 
----
-📬 **Contact & Professional Networks**
-*   **Email:** zalixrazerar@gmail.com
-*   **LinkedIn:** [linkedin.com/in/zalix-razera](https://linkedin.com/in/zalix-razera)
+
