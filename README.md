@@ -6,8 +6,10 @@
 
 # Hi, I'm Zalix 👋
 
-**Engineering Physics Student** | Focus: Control Systems, Embedded Hardware, & System Dynamics
+**Engineering Physics Student** | Focus: Control Systems, Embedded Hardware, & System Dynamics 
+
 Welcome to my engineering asset repository. This space serves as an interactive extension of my CV, hosting complete technical documentation, design baselines, and post-mortem analyses for my robotics and embedded systems projects
+
 ---
 
 ### 🔬 Core Expertise & Engineering Focus
