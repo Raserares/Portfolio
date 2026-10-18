@@ -24,7 +24,7 @@ Welcome to my engineering asset repository. This space serves as an interactive 
 
 | Project | Domain | Architecture / Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| **Remote Controlled Acquisition & Launch Robot (TF24)** | Electrical & Systems | ESP32, KiCad, Kodular, Multi-Rail Power Architecture | [📂 View Repo](https://github.com/zalix/tf24-acquisition-launch-robot)(./docs/PM_Analysis_Zalix_Razera.pdf)|
+| **Remote Controlled Acquisition & Launch Robot (TF24)** | Electrical & Systems | ESP32, KiCad, Kodular, Multi-Rail Power Architecture | [📄 Post-Mortem Analysis](./docs/PM_Analysis_Zalix%20Razera.pdf) | [📂 View Repo](https://github.com/zalix/tf24-acquisition-launch-robot) |
 | **Robotic Arm TF24** | Hardware / Kinematics | 5-Axis Dynamics, Custom Power Modules, Servo Control | [View Repo](#) |
 | **Document Storage RS-485 System** | Embedded / Networking | STM32, Modular Eurocard PCBs, Optocoupler Isolation | [View Repo](#) |
 | **Mobile Pick & Shoot Robot** | Robotics / Firmware | ESP32, Flywheel Launcher, Carrier Motherboard, Telemetry | [View Repo](#) |
